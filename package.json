@@ -1,7 +1,7 @@
 {
   "name": "client-template",
   "version": "0.1.0",
-  "description": "客户端模板项目",
+  "description": "This is a demo project for front-end development!",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -15,11 +15,12 @@
   "keywords": [
     "webpack",
     "webpack-dev-server",
-    "react",
-    "flux",
+    "Feact",
+    "React-Router",
+    "Flux",
     "ES6",
-    "bootstrap",
-    "jquery"
+    "Bootstrap",
+    "jQuery"
   ],
   "author": "yinfxs",
   "license": "Apache-2.0",

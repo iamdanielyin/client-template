@@ -1,5 +1,5 @@
 #client-template
-This is a demo project for front-end development! It contains Webpack,React,Flux,ES6 and more.Your can very easy to run it in one minute!
+This is a demo project for front-end development! It contains Webpack,React,React-Router,Flux,ES6 and more.Your can very easy to run it in one minute!
 
 ## 1.Download
 ```shell
